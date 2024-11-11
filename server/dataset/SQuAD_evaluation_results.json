@@ -1,0 +1,108 @@
+{
+  "evaluation_results": [
+    {
+      "id": "572658435951b619008f7029",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "The judicial branch of the EU has played an important role in the development of EU law, by assuming the task of interpreting the treaties, and accelerating economic and political integration. Today the Court of Justice of the European Union (CJEU) is the main judicial body, within which there is a higher European Court of Justice (commonly abbreviated as ECJ) that deals with cases that contain more public importance, and a General Court that deals with issues of detail but without general importance. There is also a Civil Service Tribunal to deal with EU staff issues, and then a separate Court of Auditors. Under the Treaty on European Union article 19(2) there is one judge from each member state, 28 at present, who are supposed to \"possess the qualifications required for appointment to the highest judicial offices\" (or for the General Court, the \"ability required for appointment to high judicial office\"). A president is elected by the judges for three years. Under TEU article 19(3) is to be the ultimate court to interpret questions of EU law. In fact, most EU law is applied by member state courts (the English Court of Appeal, the German Bundesgerichtshof, the Belgian Cour du travail, etc.) but they can refer questions to the EU court for a preliminary ruling. The CJEU's duty is to \"ensure that in the interpretation and application of the Treaties the law is observed\", although realistically it has the ability to expand and develop the law according to the principles it deems to be appropriate. Arguably this has been done through both seminal and controversial judgments, including Van Gend en Loos, Mangold v Helm, and Kadi v Commission.",
+      "question": "What is the CJEU's duty?",
+      "correct_answer": "\"ensure that in the interpretation and application of the Treaties the law is observed\"",
+      "llm_response": "The CJEU's duty, as stated in Article 19(3) of the Treaty on European Union, is to **\"ensure that in the interpretation and application of the Treaties the law is observed\"**. \n\nThis means the CJEU:\n\n* **Interprets EU law:** The CJEU clarifies the meaning and scope of EU treaties, regulations, directives, and other legal instruments.\n* **Ensures consistent application:** It makes sure that EU law is applied uniformly across all member states, preventing inconsistencies in interpretation and application.\n* **Protects the rule of law:** The CJEU acts as a guardian of the rule of law within the EU, upholding the principles of legality, equality, and proportionality",
+      "f1_score": 22.22222222222222,
+      "bleu_score": 0.1090690348192398
+    },
+    {
+      "id": "57286ec63acd2414000df9d4",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "In science, alumni include astronomers Carl Sagan, a prominent contributor to the scientific research of extraterrestrial life, and Edwin Hubble, known for \"Hubble's Law\", NASA astronaut John M. Grunsfeld, geneticist James Watson, best known as one of the co-discoverers of the structure of DNA, experimental physicist Luis Alvarez, popular environmentalist David Suzuki, balloonist Jeannette Piccard, biologists Ernest Everett Just and Lynn Margulis, computer scientist Richard Hamming, the creator of the Hamming Code, lithium-ion battery developer John B. Goodenough, mathematician and Fields Medal recipient Paul Joseph Cohen, and geochemist Clair Cameron Patterson, who developed the uranium-lead dating method into lead-lead dating. Nuclear physicist and researcher Stanton Friedman, who worked on some early projects involving nuclear-powered spacecraft propulsion systems, is also a graduate (M.Sc).",
+      "question": "Who developed the lithium-ion battery?",
+      "correct_answer": "John B. Goodenough",
+      "llm_response": "The context states that **John B. Goodenough** is the developer of the lithium-ion battery. \n",
+      "f1_score": 42.857142857142854,
+      "bleu_score": 0.09329460218997072
+    },
+    {
+      "id": "5710e9f8a58dae1900cd6b30",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "In 1564 a group of Norman Huguenots under the leadership of Jean Ribault established the small colony of Fort Caroline on the banks of the St. Johns River in what is today Jacksonville, Florida. The effort was the first at any permanent European settlement in the present-day continental United States, but survived only a short time. A September 1565 French naval attack against the new Spanish colony at St. Augustine failed when its ships were hit by a hurricane on their way to the Spanish encampment at Fort Matanzas. Hundreds of French soldiers were stranded and surrendered to the numerically inferior Spanish forces led by Pedro Menendez. Menendez proceeded to massacre the defenseless Huguenots, after which he wiped out the Fort Caroline garrison.",
+      "question": "There was a 16th century Huguenot settlement near what modern day Florida city?",
+      "correct_answer": "Jacksonville",
+      "llm_response": "The 16th century Huguenot settlement near the modern-day Florida city of **Jacksonville**. \n",
+      "f1_score": 18.181818181818183,
+      "bleu_score": 0.021105340631872645
+    },
+    {
+      "id": "57379ed81c456719005744d5",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "Tension forces can be modeled using ideal strings that are massless, frictionless, unbreakable, and unstretchable. They can be combined with ideal pulleys, which allow ideal strings to switch physical direction. Ideal strings transmit tension forces instantaneously in action-reaction pairs so that if two objects are connected by an ideal string, any force directed along the string by the first object is accompanied by a force directed along the string in the opposite direction by the second object. By connecting the same string multiple times to the same object through the use of a set-up that uses movable pulleys, the tension force on a load can be multiplied. For every string that acts on a load, another factor of the tension force in the string acts on the load. However, even though such machines allow for an increase in force, there is a corresponding increase in the length of string that must be displaced in order to move the load. These tandem effects result ultimately in the conservation of mechanical energy since the work done on the load is the same no matter how complicated the machine.",
+      "question": "What can be used to model tension forces?",
+      "correct_answer": "ideal strings",
+      "llm_response": "The text you provided already gives the answer! \n\nHere's a breakdown of what can be used to model tension forces:\n\n* **Ideal Strings:** These are the primary tool. They are massless, frictionless, unbreakable, and unstretchable. This allows them to transmit force without any loss or change.\n* **Ideal Pulleys:** These are used to change the direction of the tension force. They are assumed to be frictionless and massless, so they don't affect the force transmission.\n\nBy combining these ideal elements, you can create models of various systems involving tension forces, like:\n\n* **Simple Atwood Machines:** Two masses connected by a string over a pulley.\n* **More Complex Pulleys",
+      "f1_score": 4.123711340206185,
+      "bleu_score": 0.0040223229805989
+    },
+    {
+      "id": "5733a5f54776f41900660f46",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "One of the most famous people born in Warsaw was Maria Sk\u0142odowska-Curie, who achieved international recognition for her research on radioactivity and was the first female recipient of the Nobel Prize. Famous musicians include W\u0142adys\u0142aw Szpilman and Fr\u00e9d\u00e9ric Chopin. Though Chopin was born in the village of \u017belazowa Wola, about 60 km (37 mi) from Warsaw, he moved to the city with his family when he was seven months old. Casimir Pulaski, a Polish general and hero of the American Revolutionary War, was born here in 1745.",
+      "question": "Who was Fr\u00e9d\u00e9ric Chopin?",
+      "correct_answer": "Famous musicians",
+      "llm_response": "The context tells us that Fr\u00e9d\u00e9ric Chopin was a famous musician born in Poland. It also provides some additional details about his life:\n\n* **He was born in the village of \u017belazowa Wola, but moved to Warsaw with his family when he was seven months old.**\n* **He is mentioned alongside W\u0142adys\u0142aw Szpilman, another famous Polish musician.**\n\nThis information points to the fact that **Fr\u00e9d\u00e9ric Chopin was a renowned Polish composer and pianist, known for his beautiful and expressive music, particularly his nocturnes, mazurkas, and polonaises.** \n",
+      "f1_score": 2.469135802469136,
+      "bleu_score": 0.0022947928979879166
+    },
+    {
+      "id": "57379a4b1c456719005744cf",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "The normal force is due to repulsive forces of interaction between atoms at close contact. When their electron clouds overlap, Pauli repulsion (due to fermionic nature of electrons) follows resulting in the force that acts in a direction normal to the surface interface between two objects.:93 The normal force, for example, is responsible for the structural integrity of tables and floors as well as being the force that responds whenever an external force pushes on a solid object. An example of the normal force in action is the impact force on an object crashing into an immobile surface.",
+      "question": "What causes Pauli repulsion?",
+      "correct_answer": "fermionic nature of electrons",
+      "llm_response": "You're absolutely right! The Pauli exclusion principle is the fundamental reason behind Pauli repulsion. Here's a breakdown of how it works:\n\n**The Pauli Exclusion Principle:**\n\n* **Electrons are fermions:** This means they are subject to the Pauli exclusion principle, which states that no two identical fermions can occupy the same quantum state simultaneously. In simpler terms, no two electrons can have the same set of quantum numbers (energy level, angular momentum, spin, etc.).\n* **Electron clouds:**  Atoms consist of a nucleus surrounded by a cloud of electrons. These electrons occupy specific energy levels and orbitals within the atom.\n\n**Pauli Repulsion in Action:**\n\n1. **Overlap:** When two atoms get very close together, their",
+      "f1_score": 3.8461538461538463,
+      "bleu_score": 0.003818117134208791
+    },
+    {
+      "id": "572742bd5951b619008f8786",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "Residential construction practices, technologies, and resources must conform to local building authority regulations and codes of practice. Materials readily available in the area generally dictate the construction materials used (e.g. brick versus stone, versus timber). Cost of construction on a per square meter (or per square foot) basis for houses can vary dramatically based on site conditions, local regulations, economies of scale (custom designed homes are often more expensive to build) and the availability of skilled tradespeople. As residential construction (as well as all other types of construction) can generate a lot of waste, careful planning again is needed here.",
+      "question": "What generally dictates the construction materials used?",
+      "correct_answer": "Materials readily available in the area",
+      "llm_response": "The passage clearly states that **the availability of materials in the area generally dictates the construction materials used**. \n\nHere's a breakdown of why this is the case:\n\n* **Accessibility:**  Materials that are readily available locally are easier and cheaper to transport, making them a more practical choice.\n* **Cost:**  Importing materials from far away increases costs due to transportation and potentially higher import tariffs.\n* **Tradition:**  Local building practices often develop around readily available materials, creating a tradition of using specific materials.\n\nWhile other factors like regulations, cost of labor, and design preferences also play a role, the passage emphasizes the significant influence of material availability on construction choices. \n",
+      "f1_score": 10.0,
+      "bleu_score": 0.00601477576671667
+    },
+    {
+      "id": "5733d4c8d058e614000b6356",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "In Europe, the North American theater of the Seven Years' War usually is not given a separate name. The entire international conflict is known as the Seven Years' War. \"Seven Years\" refers to events in Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763. These dates do not correspond with the fighting on mainland North America, where the fighting between the two colonial powers was largely concluded in six years, from the Battle of Jumonville Glen in 1754 to the capture of Montreal in 1760.",
+      "question": "What was first battle in 1754?",
+      "correct_answer": "Battle of Jumonville Glen",
+      "llm_response": "The first battle of the Seven Years' War in North America was the **Battle of Jumonville Glen**, which took place on **May 28, 1754**. \n\nThis battle marked the beginning of the conflict between the British and French in North America, which would eventually become known as the French and Indian War.  It was a significant event that escalated tensions between the two colonial powers and set the stage for a larger conflict. \n",
+      "f1_score": 12.307692307692307,
+      "bleu_score": 0.03720596196661157
+    },
+    {
+      "id": "57263677ec44d21400f3dc4c",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "Baran developed the concept of distributed adaptive message block switching during his research at the RAND Corporation for the US Air Force into survivable communications networks, first presented to the Air Force in the summer of 1961 as briefing B-265, later published as RAND report P-2626 in 1962, and finally in report RM 3420 in 1964. Report P-2626 described a general architecture for a large-scale, distributed, survivable communications network. The work focuses on three key ideas: use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks, later called packets, and delivery of these messages by store and forward switching.",
+      "question": "What delivery message was used ",
+      "correct_answer": "by store and forward switching",
+      "llm_response": "The context describes the development of a **store and forward switching** method for delivering messages. This means:\n\n* **Messages are divided into blocks (later called packets).**\n* **Each block is individually routed through the network.**\n* **Nodes in the network store the blocks and forward them to the next node on the path.**\n\nSo, the delivery message used is **not a single, specific message**, but rather a **process of routing and forwarding individual blocks of a message**. \n\nHere's how it works:\n\n1. **Message is divided into blocks.**\n2. **Each block is given a header with destination address and other control information.**\n3. **Blocks are sent through the network individually.**\n4",
+      "f1_score": 8.163265306122451,
+      "bleu_score": 0.024191574824731294
+    },
+    {
+      "id": "571cde695efbb31900334e19",
+      "experiment_id": "SQuAD_10_googlevertex_20241101_093602",
+      "context": "The element is found in almost all biomolecules that are important to (or generated by) life. Only a few common complex biomolecules, such as squalene and the carotenes, contain no oxygen. Of the organic compounds with biological relevance, carbohydrates contain the largest proportion by mass of oxygen. All fats, fatty acids, amino acids, and proteins contain oxygen (due to the presence of carbonyl groups in these acids and their ester residues). Oxygen also occurs in phosphate (PO3\u2212\n4) groups in the biologically important energy-carrying molecules ATP and ADP, in the backbone and the purines (except adenine) and pyrimidines of RNA and DNA, and in bones as calcium phosphate and hydroxylapatite.",
+      "question": "Besides fats, fatty acids, and amino acids,what other organic compounds contain oxygen?",
+      "correct_answer": "proteins",
+      "llm_response": "Here are some other organic compounds containing oxygen, besides fats, fatty acids, and amino acids:\n\n**Carbohydrates:**\n\n* **Sugars:** Glucose, fructose, sucrose, lactose, etc. \n* **Starches:** Amylose, amylopectin\n* **Cellulose:** The primary component of plant cell walls\n\n**Other Biomolecules:**\n\n* **Nucleotides:**  ATP, ADP, AMP,  Guanosine triphosphate (GTP), and other nucleotides involved in energy transfer and signaling.\n* **Steroids:** Cholesterol, testosterone, estrogen\n* **Vitamins:** Vitamin C (ascorbic acid), Vitamin E (tocopherol), Vitamin K (phylloquinone)\n* **Hormones:**",
+      "f1_score": 0.0,
+      "bleu_score": 0
+    }
+  ],
+  "average_metrics": {
+    "average_f1_score": 12.417114186382719,
+    "average_bleu_score": 0.030101652321193828
+  }
+}

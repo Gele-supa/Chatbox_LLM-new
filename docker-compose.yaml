@@ -1,0 +1,35 @@
+version: '3'
+services:
+  frontend:
+    build:
+      context: ./
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./server  
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+    environment:
+      - .flaskenv
+    command: gunicorn -b 0.0.0.0:5000 app:app
+
+  db:
+    image: postgres:17
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin1
+      POSTGRES_DB: llm_evaluation
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
+    driver: local
